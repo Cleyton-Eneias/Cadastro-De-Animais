@@ -63,8 +63,9 @@ Após cadastrar um animal, você pode visualizar todos os animais cadastrados. P
 - **Model**: Representa os dados e as entidades do sistema. O arquivo `Animal.java` é a classe modelo que representa um animal no sistema.
 - **DAO**: Acesso ao banco de dados. O arquivo `AnimalDAO.java` é responsável pelas operações de CRUD (Create, Read, Update, Delete) no banco de dados.
 - **Views (JSP)**: Contém as páginas JSP para a interface do usuário. As principais páginas incluem:
-  - `formulario.jsp`: Formulário para cadastrar e editar animais.
-  - `visualizarcadastros.jsp`: Tabela para exibir todos os animais cadastrados.
+- **formulario.jsp**: Formulário para cadastrar e editar animais.
+- **visualizarcadastros.jsp**: Tabela para exibir todos os animais cadastrados.
+
 
 
 
