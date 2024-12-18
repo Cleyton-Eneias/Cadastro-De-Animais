@@ -1,4 +1,4 @@
-# Cadastro de Animais - PAINEL ADMIN
+# Cadastro de Animais
 
 Este é um projeto de um sistema web simples para cadastro e gerenciamento de animais, desenvolvido com o framework Spring MVC, utilizando JSP para renderização das páginas. O sistema permite cadastrar, editar, excluir e visualizar os animais registrados, como um painel administrativo. A aplicação foi construída com foco na simplicidade e organização do código, utilizando boas práticas do Spring Framework.
 
